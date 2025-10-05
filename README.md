@@ -1,3 +1,7 @@
+Try it:
+https://www.wolframcloud.com/env/cloud-content/FirstFiveMinutes.nb
+##
+##
 Read Subscriptions for Single-User Licenses: 
 https://www.wolfram.com/mathematica/pricing/subscriptions-for-single-user-licenses/
 ##
