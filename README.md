@@ -1,4 +1,4 @@
-Try it:
+-->iosArm32
 https://www.wolframcloud.com/env/cloud-content/FirstFiveMinutes.nb
 ##
 ##
