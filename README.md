@@ -1,6 +1,4 @@
 -->iosArm32
-###
-[https://genesis777a.github.io/vigilant-doodle/]
 ##
 ##
 Read Subscriptions for Single-User Licenses: 
