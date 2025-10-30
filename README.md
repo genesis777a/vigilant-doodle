@@ -1,5 +1,4 @@
--->iosArm32
-##
+-->dosArm32
 ##
 Read Subscriptions for Single-User Licenses: 
 ###
